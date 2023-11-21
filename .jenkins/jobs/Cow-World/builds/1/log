@@ -1,0 +1,10 @@
+Started by user [8mha:////4NunKsam8vuKkoWebkcEmyfaY4myNfFMg8hyP3REhG1LAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /home/ubuntu/.jenkins/workspace/Cow-World
+[Cow-World] $ /bin/sh -xe /tmp/jenkins4637474926926049030.sh
++ echo This project is called Cow-World
+This project is called Cow-World
++ /usr/games/cowsay Hello World
+/tmp/jenkins4637474926926049030.sh: 3: /usr/games/cowsay: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
